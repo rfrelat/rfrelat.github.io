@@ -3,7 +3,7 @@ Here is a summary and portfolio of [rfrelat Github public repositories](https://
 
 All scripts were developed by R. Frelat and are under [GNU General Public Licence v3](https://www.gnu.org/licenses/gpl-3.0). 
 
-Last update May 2021. 
+Last update April 2022. 
 
 
 
@@ -47,11 +47,28 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
 
 Below is a list of companion data and scripts from published articles, ordered chronologically:
 
-* Kortsch, S., Frelat, R., Pecuchet, L., Olivier, P., Putnis, I., Bonsdorff, E., ... & Nordström, M. C. (2021). Disentangling temporal food web dynamics facilitates understanding of ecosystem functioning. \*Journal of Animal Ecology\*. \*in press\* [DOI: 10.1111/1365-2656.13447](https://doi.org/10.1111/1365-2656.13447)  
+* Frelat, R., Kortsch, S., Kröncke, I., Neumann, H., Nordström, M. C., Olivier, P. E., & Sell, A. F. (2022). “Food web structure and community composition: a comparison across space and time in the North Sea”. *Ecography*, 2: e05945. [DOI 10.1111/ecog.05945](https://doi.org/10.1111/ecog.05945)
+
+  **data+script**: https://github.com/rfrelat/NorthSeaFoodWeb
+
+* Lopez, D. E., Frelat, R., & Badstue, L. B. (2022). "Towards gender-inclusive innovation: Assessing local conditions for agricultural targeting“. *Plos one*, 17(3), e0263771. [DOI 10.1371/journal.pone.0263771](https://doi.org/10.1371/journal.pone.0263771)
+  **data+script**: hhttps://github.com/rfrelat/GenderClimate
+  **tutorial**: https://rfrelat.github.io/GenderClimate.html
+
+* Quitzau, M., Frelat, R., Bonhomme, V., Möllmann, C., Nagelkerke, L., & Bejarano, S. (2022). "Traits, landmarks and outlines: Three congruent sides of a tale on coral reef fish morphology." *Ecology and Evolution*, 12, e8787. [DOI 10.1002/ece3.8787](https://doi.org/10.1002/ece3.8787)
+
+  **data+script**: https://github.com/rfrelat/CoralFish
+  **tutorial**: https://rfrelat.github.io/CoralFishes.html
+
+* Emblemsvåg, M., Werner, K. M., Núñez-Riboni, I., Frelat, R., Torp Christensen, H., Fock, H. O., & Primicerio, R. (2022). "Deep demersal fish communities respond rapidly to warming in a frontal region between Arctic and Atlantic waters“. *Global Change Biology*, 00, 1–12. DOI 10.1111/gcb.16113
+
+  **data+script**: https://github.com/rfrelat/GreenlandFish  
+
+* Kortsch, S., Frelat, R., Pecuchet, L., Olivier, P., Putnis, I., Bonsdorff, E., ... & Nordström, M. C. (2021). Disentangling temporal food web dynamics facilitates understanding of ecosystem functioning. *Journal of Animal Ecology*. 90: 1205– 1216. [DOI: 10.1111/1365-2656.13447](https://doi.org/10.1111/1365-2656.13447)  
   **raw data**: [DOI:10.5061/dryad.6t1g1jwwn](https://doi.org/10.5061/dryad.6t1g1jwwn)  
   **data+script+tutorial**: https://rfrelat.github.io/BalticFoodWeb.html  
 
-* Maureaud, A., Frelat, R., Pécuchet, L., Shackell, N., Mérigot, B., Pinsky, M. L., ... & T Thorson, J. (2021). “Are we ready to track climate‐driven shifts in marine species across international boundaries?‐A global survey of scientific bottom trawl data”. \*Global change biology\*, 27(2), 220-236. [DOI 10.1111/gcb.15404](https://doi.org/10.1111/gcb.15404)  
+* Maureaud, A., Frelat, R., Pécuchet, L., Shackell, N., Mérigot, B., Pinsky, M. L., ... & T Thorson, J. (2021). “Are we ready to track climate‐driven shifts in marine species across international boundaries?‐A global survey of scientific bottom trawl data”. *Global change biology*, 27(2), 220-236. [DOI 10.1111/gcb.15404](https://doi.org/10.1111/gcb.15404)  
   **data+script+updated database**: https://github.com/AquaAuma/TrawlSurveyMetadata  
   **Shiny app**: https://rfrelat.shinyapps.io/metabts  
 
