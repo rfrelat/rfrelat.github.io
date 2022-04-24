@@ -16,8 +16,6 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
   * [How to load, extract and analyse spatial data in R?](https://rfrelat.github.io/Spatial1_LoadExtractGIS.html)
   * [Hands-on multidimensional examples](https://rfrelat.github.io/Spatial2_MultiExamples.html)  
   
-  
-  
 * [Introduction to food webs metrics](https://rfrelat.github.io/BalticFoodWeb.html)  
   2h tutorial introducing marine food web analyses and how to compute weighted and unweighted food web metrics.
   
@@ -29,7 +27,8 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
 * [Introduction to multivariate analysis : from 2D to 3D](https://rfrelat.github.io/Multivariate2D3D.html)  
   2h tutorial introducing *classic* Principal Component Analysis and its extensions in 3 dimensions called Tensor Decomposition. Guidelines and dataset can be download [here](https://github.com/rfrelat/Multivariate2D3D/raw/master/Multivariate2D3D.zip)
 
-
+* [Methods to study traits-environment relationship](https://rfrelat.github.io/TraitEnvironment.html)  
+  Including advanced multivariate analysis ([RLQ analysis](https://rfrelat.github.io/RLQ.html), and [double constrained correspondance analysis](https://rfrelat.github.io/DCCA.html)) and Bayesian modeling ([Hierarchical Modelling of Species Communities](https://rfrelat.github.io/HMSC.html)).
 
 ## Shiny Apps <a name="shiny"></a>
 
@@ -47,21 +46,18 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
 
 Below is a list of companion data and scripts from published articles, ordered chronologically:
 
-* Frelat, R., Kortsch, S., Kröncke, I., Neumann, H., Nordström, M. C., Olivier, P. E., & Sell, A. F. (2022). “Food web structure and community composition: a comparison across space and time in the North Sea”. *Ecography*, 2: e05945. [DOI 10.1111/ecog.05945](https://doi.org/10.1111/ecog.05945)
-
+* Frelat, R., Kortsch, S., Kröncke, I., Neumann, H., Nordström, M. C., Olivier, P. E., & Sell, A. F. (2022). “Food web structure and community composition: a comparison across space and time in the North Sea”. *Ecography*, 2: e05945. [DOI 10.1111/ecog.05945](https://doi.org/10.1111/ecog.05945)  
   **data+script**: https://github.com/rfrelat/NorthSeaFoodWeb
 
-* Lopez, D. E., Frelat, R., & Badstue, L. B. (2022). "Towards gender-inclusive innovation: Assessing local conditions for agricultural targeting“. *Plos one*, 17(3), e0263771. [DOI 10.1371/journal.pone.0263771](https://doi.org/10.1371/journal.pone.0263771)
-  **data+script**: hhttps://github.com/rfrelat/GenderClimate
+* Lopez, D. E., Frelat, R., & Badstue, L. B. (2022). "Towards gender-inclusive innovation: Assessing local conditions for agricultural targeting“. *Plos one*, 17(3), e0263771. [DOI 10.1371/journal.pone.0263771](https://doi.org/10.1371/journal.pone.0263771)  
+  **data+script**: https://github.com/rfrelat/GenderClimate  
   **tutorial**: https://rfrelat.github.io/GenderClimate.html
 
-* Quitzau, M., Frelat, R., Bonhomme, V., Möllmann, C., Nagelkerke, L., & Bejarano, S. (2022). "Traits, landmarks and outlines: Three congruent sides of a tale on coral reef fish morphology." *Ecology and Evolution*, 12, e8787. [DOI 10.1002/ece3.8787](https://doi.org/10.1002/ece3.8787)
-
-  **data+script**: https://github.com/rfrelat/CoralFish
+* Quitzau, M., Frelat, R., Bonhomme, V., Möllmann, C., Nagelkerke, L., & Bejarano, S. (2022). "Traits, landmarks and outlines: Three congruent sides of a tale on coral reef fish morphology." *Ecology and Evolution*, 12, e8787. [DOI 10.1002/ece3.8787](https://doi.org/10.1002/ece3.8787)  
+  **data+script**: https://github.com/rfrelat/CoralFish  
   **tutorial**: https://rfrelat.github.io/CoralFishes.html
 
-* Emblemsvåg, M., Werner, K. M., Núñez-Riboni, I., Frelat, R., Torp Christensen, H., Fock, H. O., & Primicerio, R. (2022). "Deep demersal fish communities respond rapidly to warming in a frontal region between Arctic and Atlantic waters“. *Global Change Biology*, 00, 1–12. DOI 10.1111/gcb.16113
-
+* Emblemsvåg, M., Werner, K. M., Núñez-Riboni, I., Frelat, R., Torp Christensen, H., Fock, H. O., & Primicerio, R. (2022). "Deep demersal fish communities respond rapidly to warming in a frontal region between Arctic and Atlantic waters“. *Global Change Biology*, 00, 1–12. DOI 10.1111/gcb.16113  
   **data+script**: https://github.com/rfrelat/GreenlandFish  
 
 * Kortsch, S., Frelat, R., Pecuchet, L., Olivier, P., Putnis, I., Bonsdorff, E., ... & Nordström, M. C. (2021). Disentangling temporal food web dynamics facilitates understanding of ecosystem functioning. *Journal of Animal Ecology*. 90: 1205– 1216. [DOI: 10.1111/1365-2656.13447](https://doi.org/10.1111/1365-2656.13447)  
