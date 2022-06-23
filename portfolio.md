@@ -28,7 +28,8 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
   2h tutorial introducing *classic* Principal Component Analysis and its extensions in 3 dimensions called Tensor Decomposition. Guidelines and dataset can be download [here](https://github.com/rfrelat/Multivariate2D3D/raw/master/Multivariate2D3D.zip)
 
 * [Methods to study traits-environment relationship](https://rfrelat.github.io/TraitEnvironment.html)  
-  Including advanced multivariate analysis ([RLQ analysis](https://rfrelat.github.io/RLQ.html), and [double constrained correspondance analysis](https://rfrelat.github.io/DCCA.html)) and Bayesian modeling ([Hierarchical Modelling of Species Communities](https://rfrelat.github.io/HMSC.html)).
+  Including advanced multivariate analysis ([RLQ analysis](https://rfrelat.github.io/RLQ.html)), and Bayesian modeling ([Hierarchical Modelling of Species Communities](https://rfrelat.github.io/HMSC.html)).
+
 
 ## Shiny Apps <a name="shiny"></a>
 
