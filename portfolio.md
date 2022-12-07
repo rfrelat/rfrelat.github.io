@@ -1,9 +1,9 @@
 # R resources for ecologists
-Here is a summary and portfolio of [rfrelat Github public repositories](https://github.com/rfrelat). The resources are organized in three sections: [tutorial and workshops](#tuto); [shiny apps](#shiny); and [companion scripts from published scientific articles](#open).
+Here is a summary and portfolio of [rfrelat Github public repositories](https://github.com/rfrelat). The resources are organized in three sections: [tutorial and workshops](#tuto); [dashboards/shiny apps](#shiny); and [companion scripts from published scientific articles](#open).
 
 All scripts were developed by R. Frelat and are under [GNU General Public Licence v3](https://www.gnu.org/licenses/gpl-3.0). 
 
-Last update April 2022. 
+Last update December 2022. 
 
 
 
@@ -15,23 +15,29 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
   Full day workshop, divided in two session of approx. 2h. Guidelines and dataset can be download [here](https://github.com/rfrelat/SpatialR/raw/master/SpatialR.zip) (67Mb).
   * [How to load, extract and analyse spatial data in R?](https://rfrelat.github.io/Spatial1_LoadExtractGIS.html)
   * [Hands-on multidimensional examples](https://rfrelat.github.io/Spatial2_MultiExamples.html)  
-  
+ <br>   
+
 * [Introduction to food webs metrics](https://rfrelat.github.io/BalticFoodWeb.html)  
-  2h tutorial introducing marine food web analyses and how to compute weighted and unweighted food web metrics.
+  2h tutorial introducing marine food web analyses and how to compute weighted and unweighted food web metrics.  
   
   
-* [Fish outline analysis with R](https://rfrelat.github.io/FishMorpho.html)  
-  2h tutorial introducing outline analysis on pictures of fish and how to interpret the output from Elliptical Fourier Transform.
-  
-  
-* [Introduction to multivariate analysis : from 2D to 3D](https://rfrelat.github.io/Multivariate2D3D.html)  
-  2h tutorial introducing *classic* Principal Component Analysis and its extensions in 3 dimensions called Tensor Decomposition. Guidelines and dataset can be download [here](https://github.com/rfrelat/Multivariate2D3D/raw/master/Multivariate2D3D.zip)
+* Fish morphometrics  
+  * [Fish outline analysis with R](https://rfrelat.github.io/FishMorpho.html)  
+  2h tutorial introducing outline analysis on pictures of fish and how to interpret the output from  Elliptical Fourier Transform.
+  * [Morphometric comparison with R](https://rfrelat.github.io/CoralFishes.html)  
+  Introduction and comparison of 3 morphometric methods: traditional morphometric, geometric morphometric and outline analysis.    
+ <br>   
 
-* [Methods to study traits-environment relationship](https://rfrelat.github.io/TraitEnvironment.html)  
-  Including advanced multivariate analysis ([RLQ analysis](https://rfrelat.github.io/RLQ.html)), and Bayesian modeling ([Hierarchical Modelling of Species Communities](https://rfrelat.github.io/HMSC.html)).
+* Applied multivariate analysis
+  * [Introduction to multivariate analysis : from 2D to 3D](https://rfrelat.github.io/Multivariate2D3D.html)  
+   2h tutorial introducing *classic* Principal Component Analysis and its extensions in 3 dimensions called Tensor Decomposition. Guidelines and dataset can be download [here](https://github.com/rfrelat/Multivariate2D3D/raw/master/Multivariate2D3D.zip)  
+  * [Methods to study traits-environment relationship](https://rfrelat.github.io/TraitEnvironment.html)  
+   Including advanced multivariate analysis ([RLQ analysis](https://rfrelat.github.io/RLQ.html)), and Bayesian modeling ([Hierarchical Modelling of Species Communities](https://rfrelat.github.io/HMSC.html)).
+  * [Introduction to principal component analysis for measuring gender context](https://rfrelat.github.io/GenderClimate.html)  
+   2h tutorial introducing Principal Component Analysis and its interpretation in the gender perspective
 
 
-## Shiny Apps <a name="shiny"></a>
+## Dashboards and Shiny Apps <a name="shiny"></a>
 
 - COMITA: https://rfrelat.shinyapps.io/comita  
   Comparative tools for Integrative Trend Analysis developed as an R-package for the ICES working group COMEDA. More explanations can be found in the report of the working group:  
@@ -42,7 +48,11 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
   Interactive map of the inventory of bottom trawl surveys published in Global Change Biology by Maureaud A. *et al.* in 2020, *Are we ready to track climate‐driven shifts in marine species across international boundaries? ‐ A global survey of scientific bottom trawl data* [DOI: 10.1111/gcb.15404](https://doi.org/10.1111/gcb.15404)
 
 
-
+- GAIA Dashboard: https://startistic.shinyapps.io/GAIA_Dashboard/ 
+  Interactive dashboard to Guiding Acid Soil Investments in sub-Saharan Africa [DOI: 10.5281/zenodo.7242765](https://doi.org/10.5281/zenodo.7242765)
+  
+  
+  
 ## Open science <a name="open"></a>
 
 Below is a list of companion data and scripts from published articles, ordered chronologically:

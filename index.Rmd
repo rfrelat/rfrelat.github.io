@@ -1,0 +1,54 @@
+---
+title: "Romain Frelat"
+image: "ID_Frelat_circle.JPG"
+links:
+  - label: GitHub
+    url: "https://github.com/rfrelat"
+  - label: LinkedIn
+    url: "http://www.linkedin.com/in/romainfrelat"
+  - label: Orcid
+    url: "https://orcid.org/0000-0002-8631-4398"
+  - label: Email
+    url: "mailto:rom.frelat@gmail.com"
+    
+  - label: Open science
+    url: "https://rfrelat.github.io/portfolio.html#open"
+  - label: Quantitative ecologist
+    url: "https://rfrelat.github.io/portfolio.html"
+
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Data scientist and quantitative ecologist. In the last ten years, I transformed large and diverse datasets into publishable information with geographers, climatologists, agronomists, ecologists and fisheries scientists based in Africa, Asia, Europe and Latin America.   
+
+I develop open source software (especially in R) to help colleagues conducting creative, robust and repeatable data analysis. Interested ? [Contact me.](mailto:rom.frelat@gmail.com)
+
+Below is a list of some of the recent tools I developed:  
+
+-   [Tutorial and workshops](https://rfrelat.github.io/portfolio.html#tuto) to share novel statistical tools to broader audience
+
+-   [Data dashboard](https://rfrelat.github.io/portfolio.html#shiny) for interactive data analysis
+
+-   [Contribution to open science](https://rfrelat.github.io/portfolio.html#open) with data and scripts deposited in repository for robust and repeatable science.
+
+
+## Education
+
+**University of Hamburg** | Hamburg, Germany  
+Ph.D. in Marine Ecology | 2016 - 2019
+
+**National Institute of Applied Sciences** | Lyon, France  
+M.Sc. in Bioinformatics and modeling | 2006 - 2011
+
+## Experience
+
+**Wageningen University and Research** | Wageningen, Netherlands  
+Postdoctoral fellow | 2019 - 2021
+
+**Consultative Group on International Agricultural Research** | Texcoco, Mexico   Scientist, Systems Analysis  | 2013 - 2015
+
+**French Institute of Pondicherry** | Pondicherry, India  
+Engineer, project manager  | 2011 - 2013
