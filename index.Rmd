@@ -22,9 +22,9 @@ output:
  
 ## Bio
 
-Data scientist and quantitative ecologist. In the last ten years, I transformed large and diverse datasets into publishable information with geographers, climatologists, agronomists, ecologists and fisheries scientists based in Africa, Asia, Europe and Latin America.   
+Data scientist and quantitative ecologist. In the last thirteen years, I have transformed large and diverse datasets into publishable information with geographers, climatologists, agronomists, ecologists, and fisheries scientists based in Africa, Asia, Europe, and Latin America.   
 
-I develop open source software (especially in R) to help colleagues conducting creative, robust and repeatable data analysis. Interested ? [Contact me.](mailto:rom.frelat@gmail.com)
+I develop open-source software (especially in R) to help colleagues conduct creative, robust, and repeatable data analysis. Interested ? [Contact me.](mailto:rom.frelat@gmail.com)
 
 Below is a list of some of the recent tools I developed:  
 
@@ -45,10 +45,14 @@ M.Sc. in Bioinformatics and modeling | 2006 - 2011
 
 ## Experience
 
+**International Livestock Research Institute** | Iporanga, Brazil  
+Consultant | 2022 - 2024
+
 **Wageningen University and Research** | Wageningen, Netherlands  
 Postdoctoral fellow | 2019 - 2021
 
-**Consultative Group on International Agricultural Research** | Texcoco, Mexico   Scientist, Systems Analysis  | 2013 - 2015
+**Consultative Group on International Agricultural Research** | Texcoco, Mexico   
+Scientist, Systems Analysis  | 2013 - 2015
 
 **French Institute of Pondicherry** | Pondicherry, India  
 Engineer, project manager  | 2011 - 2013

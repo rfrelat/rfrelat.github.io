@@ -3,7 +3,7 @@ Here is a summary and portfolio of [rfrelat Github public repositories](https://
 
 All scripts were developed by R. Frelat and are under [GNU General Public Licence v3](https://www.gnu.org/licenses/gpl-3.0). 
 
-Last update December 2022. 
+Last update May 2024. 
 
 
 
@@ -34,12 +34,27 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
   * [Methods to study traits-environment relationship](https://rfrelat.github.io/TraitEnvironment.html)  
    Including advanced multivariate analysis ([RLQ analysis](https://rfrelat.github.io/RLQ.html)), and Bayesian modeling ([Hierarchical Modelling of Species Communities](https://rfrelat.github.io/HMSC.html)).
   * [Introduction to principal component analysis for measuring gender context](https://rfrelat.github.io/GenderClimate.html)  
-   2h tutorial introducing Principal Component Analysis and its interpretation in the gender perspective
+   2h tutorial introducing Principal Component Analysis and its interpretation in the gender perspective  
+ <br> 
 
+* [Resilience Assessment](https://rfrelat.github.io/cuspra.html)  
+R vignette to introduce the [cuspra R-package](https://github.com/rfrelat/cuspra) for the quantification of resilience based on empirical data using the stochastic cusp model
 
 ## Dashboards and Shiny Apps <a name="shiny"></a>
 
-- COMITA: https://rfrelat.shinyapps.io/comita  
+- RHoMIS farm household exploration Dashboard: https://startistic.shinyapps.io/RHOMIS_Dashboard/  
+  Interactive dashboard to help understand the diversity of farming systems, zooming in crop, livestock and livelihood strategies.  
+  
+
+- CUSPRA Dashboard: https://rfrelat.shinyapps.io/CUSPRA/  
+  Interactive dashboard to quantify the resilience based on empirical data using the stochastic cusp model ([Sguotti et al. 2024](https://doi.org/10.1098/rspb.2024.0089))  
+
+  
+- GAIA Dashboard: https://startistic.shinyapps.io/GAIA_Dashboard/   
+  Interactive dashboard to Guiding Acid Soil Investments in sub-Saharan Africa [DOI: 10.5281/zenodo.7242765](https://doi.org/10.5281/zenodo.7242765)
+
+
+- COMITA: https://rfrelat.shinyapps.io/comita   
   Comparative tools for Integrative Trend Analysis developed as an R-package for the ICES working group COMEDA. More explanations can be found in the report of the working group:  
   ICES. 2019. Working Group on Comparative Analyses between European Atlantic and Mediterranean marine ecosystems to move towards an Ecosystem-based Approach to Fisheries (WGCOMEDA). *ICES Scientific Reports*. 1:49. 30 pp. [DOI 10.17895/ices.pub.5542](http://doi.org/10.17895/ices.pub.5542)
   
@@ -48,14 +63,18 @@ All tutorials below suppose basic knowledge of the [statistical software R](http
   Interactive map of the inventory of bottom trawl surveys published in Global Change Biology by Maureaud A. *et al.* in 2020, *Are we ready to track climate‐driven shifts in marine species across international boundaries? ‐ A global survey of scientific bottom trawl data* [DOI: 10.1111/gcb.15404](https://doi.org/10.1111/gcb.15404)
 
 
-- GAIA Dashboard: https://startistic.shinyapps.io/GAIA_Dashboard/ 
-  Interactive dashboard to Guiding Acid Soil Investments in sub-Saharan Africa [DOI: 10.5281/zenodo.7242765](https://doi.org/10.5281/zenodo.7242765)
+
   
   
   
 ## Open science <a name="open"></a>
 
 Below is a list of companion data and scripts from published articles, ordered chronologically:
+
+* Sguotti, C., Vasilakopoulos, P., Tzanatos, E., & Frelat, R. (2024). “Resilience assessment in complex natural systems”. *Proceedings of the Royal Society B*, 291, 20240089. [DOI 10.1098/rspb.2024.0089](https://doi.org/10.1098/rspb.2024.0089)  
+  **data+script**: [DOI 10.5281/zenodo.10912017](https://doi.org/10.5281/zenodo.10912017)   
+  **R-package**: https://github.com/rfrelat/cuspra   
+  **tutorial**: https://rfrelat.github.io/cuspra.html  
 
 * Frelat, R., Kortsch, S., Kröncke, I., Neumann, H., Nordström, M. C., Olivier, P. E., & Sell, A. F. (2022). “Food web structure and community composition: a comparison across space and time in the North Sea”. *Ecography*, 2: e05945. [DOI 10.1111/ecog.05945](https://doi.org/10.1111/ecog.05945)  
   **data+script**: https://github.com/rfrelat/NorthSeaFoodWeb
@@ -68,7 +87,7 @@ Below is a list of companion data and scripts from published articles, ordered c
   **data+script**: https://github.com/rfrelat/CoralFish  
   **tutorial**: https://rfrelat.github.io/CoralFishes.html
 
-* Emblemsvåg, M., Werner, K. M., Núñez-Riboni, I., Frelat, R., Torp Christensen, H., Fock, H. O., & Primicerio, R. (2022). "Deep demersal fish communities respond rapidly to warming in a frontal region between Arctic and Atlantic waters“. *Global Change Biology*, 00, 1–12. DOI 10.1111/gcb.16113  
+* Emblemsvåg, M., Werner, K. M., Núñez-Riboni, I., Frelat, R., Torp Christensen, H., Fock, H. O., & Primicerio, R. (2022). "Deep demersal fish communities respond rapidly to warming in a frontal region between Arctic and Atlantic waters“. *Global Change Biology*, 28(9), 2979-2990. [DOI 10.1111/gcb.16113](https://doi.org/10.1111/gcb.16113)  
   **data+script**: https://github.com/rfrelat/GreenlandFish  
 
 * Kortsch, S., Frelat, R., Pecuchet, L., Olivier, P., Putnis, I., Bonsdorff, E., ... & Nordström, M. C. (2021). Disentangling temporal food web dynamics facilitates understanding of ecosystem functioning. *Journal of Animal Ecology*. 90: 1205– 1216. [DOI: 10.1111/1365-2656.13447](https://doi.org/10.1111/1365-2656.13447)  
@@ -79,7 +98,7 @@ Below is a list of companion data and scripts from published articles, ordered c
   **data+script+updated database**: https://github.com/AquaAuma/TrawlSurveyMetadata  
   **Shiny app**: https://rfrelat.shinyapps.io/metabts  
 
-* Beukhof E, Frelat R, Pécuchet L, Maureaud A, Dencker TS, Sólmundsson J, Punzon A, Primicerio R, Hidalgo M, Möllmann C and Lindegren M. "Marine fish traits follow fast-slow continuum along coastal-offshore gradient.", \*Scientific Report\*, 9: 17878 [DOI: 10.1038/s41598-019-53998-2](https://doi.org/10.1038/s41598-019-53998-2)    
+* Beukhof E, Frelat R, Pécuchet L, Maureaud A, Dencker TS, Sólmundsson J, Punzon A, Primicerio R, Hidalgo M, Möllmann C and Lindegren M. "Marine fish traits follow fast-slow continuum along coastal-offshore gradient.", *Scientific Report*, 9: 17878 [DOI: 10.1038/s41598-019-53998-2](https://doi.org/10.1038/s41598-019-53998-2)    
   **data+script**: Deposited in Dryad Digital Repository: (https://doi.org/10.5061/dryad.ttdz08kt8).
 
 * Olivier, P., Frelat, R., Bonsdorff, E., Kortsch, S., Kröncke, I., Möllmann, C., ... and Nordström, M. C. (2019). “Exploring the temporal variability of a food web using long‐term biomonitoring data”. *Ecography*, 42(12):1-19, DOI 10.1111/ecog.04461.  
