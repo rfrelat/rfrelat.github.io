@@ -3,7 +3,7 @@ Here is a summary and portfolio of [rfrelat Github public repositories](https://
 
 All scripts were developed by R. Frelat and are under [GNU General Public Licence v3](https://www.gnu.org/licenses/gpl-3.0). 
 
-Last update May 2024. 
+Last update October 2024. 
 
 
 
@@ -42,8 +42,8 @@ R vignette to introduce the [cuspra R-package](https://github.com/rfrelat/cuspra
 
 ## Dashboards and Shiny Apps <a name="shiny"></a>
 
-- RHoMIS farm household exploration Dashboard: https://startistic.shinyapps.io/RHOMIS_Dashboard/  
-  Interactive dashboard to help understand the diversity of farming systems, zooming in crop, livestock and livelihood strategies.  
+- Farm household exploration dashboard: https://startistic.shinyapps.io/farmhousehold_explo/   
+  Interactive dashboard to help understand the diversity of farming systems. The dashboard is part of the [farmhoushold R package](https://github.com/rfrelat/farmhousehold) that provides tools to analyse farm household data.    
   
 
 - CUSPRA Dashboard: https://rfrelat.shinyapps.io/CUSPRA/  
@@ -55,7 +55,7 @@ R vignette to introduce the [cuspra R-package](https://github.com/rfrelat/cuspra
 
 
 - COMITA: https://rfrelat.shinyapps.io/comita   
-  Comparative tools for Integrative Trend Analysis developed as an R-package for the ICES working group COMEDA. More explanations can be found in the report of the working group:  
+  Comparative tools for Integrative Trend Analysis developed as an [R-package](https://github.com/rfrelat/comita) for the ICES working group COMEDA. More explanations can be found in the report of the working group:  
   ICES. 2019. Working Group on Comparative Analyses between European Atlantic and Mediterranean marine ecosystems to move towards an Ecosystem-based Approach to Fisheries (WGCOMEDA). *ICES Scientific Reports*. 1:49. 30 pp. [DOI 10.17895/ices.pub.5542](http://doi.org/10.17895/ices.pub.5542)
   
   
